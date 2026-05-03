@@ -1,2 +1,2 @@
 # Vilonia
-Ai-powered weather app
+Ai-powered weather app (in early stages!)
